@@ -12,9 +12,7 @@ h1 {
 }
 p {
   font-size: 12px;
-}
-p {
-    color: green;
+  color: green;
 }
 div.myDiv{
   border-style: dotted;
