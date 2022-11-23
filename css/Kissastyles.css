@@ -9,9 +9,12 @@ background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%
 
 }
 h1 {
+  border-width: 2px;
   border-style: inset;
+ 
 }
 p {
+  border-width: 2px;
   background-color: Cornsilk;
   border-style: inset;
   border-radius: 5px;
