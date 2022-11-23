@@ -4,13 +4,21 @@ background-image: url("https://www.thethinkingbusiness.com/wp-content/uploads/20
    
 }
 h1 {
+   color: white;
   border-width: 2px;
   border-style: inset;
  
 }
 p {
+  color: white;
   border-width: 2px;
   background-color: Cornsilk;
   border-style: inset;
   border-radius: 5px;
+}
+figcaption {
+   color: white;
+}
+label {
+   color: white;
 }
